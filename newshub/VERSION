@@ -1,0 +1,15 @@
+newshub-skill 0.4.0
+revision 77e7256
+
+# sha256 of each file as committed, before the site url is filled in. To check one:
+#   curl -fsSL https://wqu.guru/skill/SKILL.md | sed 's|https://wqu.guru|__BASE_URL__|g' | shasum -a 256
+2039778cc93d625f0a9e0ca3e26b91080fa3bf25d95f84ffd29833eca53eb22b  SKILL.md
+3429589e02d30510737075d7a982effa11be25af5f82823dd5d76772b6d2992d  install.sh
+3b71f6562aaffc57ea3939aa05df10109f29d72c8dbee4e1396125521535eeaa  README.md
+427202c28b69f4e6fbab4d259996e89886e573201d3b98a8fb7aa59c9d8616a8  references/curl-recipes.md
+234f2272d03a6650430169188109a27c2c2514f03f12816e9831046595bba4c6  references/response-shapes.md
+10f30ce0017af20116a853d89c1fac24a6adf149ec57bbdc2fdb8870bf85931b  references/output-templates.md
+29960461cb083561ecf2e475780ec5a0da23c127abca5caa1bdc7176e251f9b8  references/playbooks.md
+8f9162044cc5e4e01359f3d09a3ce0bf5c94633ee05239f31d780fc58ec1aec7  references/data-map.md
+08942df0d8dff9b4d1b7fd950d6e0e3bdd978f449eb8e7c0d0086ce4dcddca07  scripts/nh.py
+b6131205a854dcfea3b3e7f42466173e74f74257f7ecd3c03f79de432cdd9103  scripts/growth.py
